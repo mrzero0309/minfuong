@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Món quà nhỏ tặng bạn iu nhân dịp tuổi mới ^-^ " //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc bạn iu thêm tuổi mới gặt hái nhiều thành công hoàn thành mục tiêu quan trọng trước mắt là đỗ cấp 3 vào được trường mình mong muốn nè ^-^ hí hí" //Nội dung của bức thư
+const mainContentLetter = "Chúc bạn iu thêm tuổi mới gặt hái nhiều thành công hoàn thành mục tiêu quan trọng trước mắt là đỗ cấp 3 vào được trường mình mong muốn nè ^-^ Không muốn làm bạn chút nào mà bẹn không thích lên thui zậy ^-^ " //Nội dung của bức thư
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
 imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
